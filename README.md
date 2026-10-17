@@ -22,15 +22,15 @@ Supra SAE 2026: <b>P3 overall, P2 Design Report</b>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/TheMahaanOne/inflatable-wing-uav"><img src="assets/card_uav.jpg" width="100%"></a>
-<h3><a href="https://github.com/TheMahaanOne/inflatable-wing-uav"> Inflatable-wing UAV</a></h3>
-A wing with no ribs or spars, designed end to end at IIT Bombay.<br><br>
-MATLAB sizing &amp; layout solver<br>
-Automated laser-cut file generation<br>
-<b>972 g</b> hand-launched prototype
+<h3><a href="https://github.com/TheMahaanOne/inflatable-wing-uav">✈️ Inflatable-wing UAV</a></h3>
+Designed an inflatable-wing UAV end to end at IIT Bombay: sized the wing (1 m span, 0.3 m chord, AR 3.3), airframe length, V-tail geometry and electronics; modelled it in CAD and fabricated the <b>972 g</b> prototype with 3D-printed structures and a 5 mm Depron V-tail.<br><br>
+MATLAB sizing &amp; constraint-analysis code<br>
+MATLAB DXF generators automating the laser-cutting workflow<br>
+<b>8 wings</b> fabricated and tested (3 LDPE, 5 nylon)
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/TheMahaanOne/coaxial-rotor-dust"><img src="assets/card_rotor.jpg" width="100%"></a>
-<h3><a href="https://github.com/TheMahaanOne/coaxial-rotor-dust"> Co-axial rotor CFD</a></h3>
+<h3><a href="https://github.com/TheMahaanOne/coaxial-rotor-dust">🚁 Co-axial rotor CFD</a></h3>
 Vortex-particle CFD of interacting rotors at IIT Bombay.<br><br>
 Upstream rotor within <b>3.6 %</b> thrust and <b>6 %</b> torque of experiment<br>
 Python post-processing toolchain
@@ -42,7 +42,7 @@ Python post-processing toolchain
 
 | | |
 |---|---|
-| **CFD & simulation** | STAR-CCM+ · ANSYS Fluent · OpenFOAM · DUST · COMSOL · XFLR5 · LS-DYNA |
+| **CFD & simulation** | Siemens STAR-CCM+ · ANSYS Fluent · OpenFOAM · DUST · COMSOL · XFLR5 · LS-DYNA |
 | **Code & data** | MATLAB · Python (NumPy, SciPy, Matplotlib) · ParaView · Linux / WSL · MoTeC · ChassisSim |
 | **CAD** | SOLIDWORKS · 3DEXPERIENCE · Siemens NX · PTC Creo |
 | **Manufacturing** | CFRP resin infusion, vacuum bagging, wet layup · honeycomb sandwich panels · 3D printing · laser and waterjet cutting |
